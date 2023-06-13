@@ -34,8 +34,8 @@
     </style>
 </head>
 <body>
-    <h1>Se inscreva no canal ;)</h1>
-    <h2>Prof. Gustavo Neitzke</h2>
+    <h1>Tela de Login</h1>
+    <h2>Willian Wagner Kleszcz</h2>
     <div class="box">
         <a href="login.php">Login</a>
         <a href="formulario.php">Cadastre-se</a>
